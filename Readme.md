@@ -7,7 +7,7 @@
 
 - [x] [Abstract Factory](https://github.com/enginyenice/Examples-of-Design-Patterns/tree/main/AbstractDesignPattern)
 - [ ] Builder 
-- [ ] Factory Method 
+- [x] [Factory Method ](https://github.com/enginyenice/Examples-of-Design-Patterns/tree/main/FactoryMethodDesignPattern)
 - [ ] Prototype 
 - [ ] Singleton 
 
