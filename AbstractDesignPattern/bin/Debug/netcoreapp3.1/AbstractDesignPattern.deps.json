@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "AbstractDesignPattern/1.0.0": {
+        "runtime": {
+          "AbstractDesignPattern.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "AbstractDesignPattern/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
