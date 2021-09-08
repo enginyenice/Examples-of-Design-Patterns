@@ -1,0 +1,1 @@
+![Abstract Design Pattern](AbstractDesignPattern.png)
