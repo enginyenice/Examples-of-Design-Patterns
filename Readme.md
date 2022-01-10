@@ -9,7 +9,9 @@
 - [ ] Builder 
 - [x] [Factory Method ](https://github.com/enginyenice/Examples-of-Design-Patterns/tree/main/FactoryMethodDesignPattern)
 - [x] [Prototype](https://github.com/enginyenice/Examples-of-Design-Patterns/tree/main/PrototypeDesignPattern) 
-- [ ] Singleton 
+- [x] [Singleton](https://github.com/enginyenice/Examples-of-Design-Patterns/tree/main/SingletonDesignPattern)
+- [ ] Object Pool
+
 
 
 ## Structural Design Patterns (Yapısal Tasarım Desenleri)
